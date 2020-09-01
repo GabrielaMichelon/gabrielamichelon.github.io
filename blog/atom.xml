@@ -6,7 +6,7 @@ layout: feed
  
  <title>Gabriela Karoline Michelon</title>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://hankquinlan.github.io/blog</id>
+ <id>http://gabrielamichelon.github.io/publications</id>
  <author>
    <name>Gabriela Karoline Michelon</name>
    <email>gabriela.michelon@jku.at</email>
