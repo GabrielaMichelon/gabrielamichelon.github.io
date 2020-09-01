@@ -1,4 +1,3 @@
-## Gabriela Karoline Michelon
 
 ![](https://www.jku.at/fileadmin/_processed_/6/6/csm_Gabriela_Karoline_Michelon_8ba77aea44.png)
 
