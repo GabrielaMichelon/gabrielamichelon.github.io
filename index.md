@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Gabriela Karoline Michelon
 
-You can use the [editor on GitHub](https://github.com/GabrielaMichelon/webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Gabriela Karoline Michelon](https://www.jku.at/fileadmin/_processed_/6/6/csm_Gabriela_Karoline_Michelon_8ba77aea44.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Software Engineering Junior Researcher at the Doctorate program of Computer Science in the Johannes Kepler University Linz (JKU), Austria.
+Graduated in Computer Science at the Federal Technological University of Paraná - Campus Medianeira, specialist in Software Engineering, Master in Computational Technologies for Agribusiness at the Federal Technological University of Paraná - Campus Medianeira with a three-month period at the University of California, Davis.
 
-### Markdown
+### Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Software Evolution
+- Software Reuse
+- Software Product Lines
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
+Johannes Kepler University Linz
 
-- Bulleted
-- List
+Altenberger Straße 69, Science Park 3/2nd Floor - Room SP3 240 and OIC/1st Floor, 4040 Linz, Austria
 
-1. Numbered
-2. List
+P +43 732 2468 9535
 
-**Bold** and _Italic_ and `Code` text
+F +43 677 6347 9948
 
-[Link](url) and ![Image](src)
-```
+gabriela.michelon@jku.at
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+https://www.jku.at/en/institute-for-software-systems-engineering
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GabrielaMichelon/webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://www.jku.at/en/lit-secure-and-correct-systems-lab
