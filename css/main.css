@@ -42,11 +42,6 @@ ul.posts li {
     list-style: none;
 }
 
-button {
-  font-size: 18px;
-  width: 150px;
-  height: 150px;
-}
 
 button #twitter {
    background: url(img/twitter_bird_logo_.png) no-repeat;
