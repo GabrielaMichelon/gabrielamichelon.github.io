@@ -43,10 +43,8 @@ ul.posts li {
 }
 button {
    font-size: 18px;
-   border: 2px solid #AD235E;
-   border-radius: 100px;
-   width: 150px;
-   height: 150px;
+   width: 30px;
+   height: 30px;
 }
 
 button #twitter {
