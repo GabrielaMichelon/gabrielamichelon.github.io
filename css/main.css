@@ -41,14 +41,15 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
 button {
-font-size: 18px;
+  font-size: 18px;
   border: 2px solid #AD235E;
-  border-radius: 100px;
-  width: 350px;
-  height: 350px;
+  width: 150px;
+  height: 150px;
   background-color: transparent;
 }
+
 button #twitter {
    background: url(img/twitter_bird_logo_.png) no-repeat;
 }
