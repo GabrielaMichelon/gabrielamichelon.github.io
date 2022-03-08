@@ -134,16 +134,13 @@ title: CV of Gabriela Karoline Michelon
 		
 		<h2>Teaching Experience</h2>
 		
-		<ol> 
 		<h4>Institute of Software Systems Engineering - Johannes Kepler University Linz (JKU), Austria</h4>
 		
-		<ul>
-			<li>[2022S] Model-driven Engineering</li>
-				
-				
-		</ul>
+			<ul>
+				<li>[2022S] Model-driven Engineering</li>
+			</ul>
 		<h4>Federal Technological University of Paraná (UTFPR), Medianeira, Brazil</h4>
-		<ul>
+			<ul>
 				<li>[2018-1] Geographic Database </li>
 				<li>[2018-2] Computing 1 </li>
 				<li>[2018-2] Computing 2 </li>
@@ -151,6 +148,5 @@ title: CV of Gabriela Karoline Michelon
 				<li>[2019-1] Computing 1 </li>
 				<li>[2019-1] Computing 2 </li>
 				<li>[2019-1] Human-Computer Interaction </li>
-		</ul>
-		</ol>
+			</ul>
 	</div>
