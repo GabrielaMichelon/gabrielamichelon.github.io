@@ -108,6 +108,7 @@ title: CV of Gabriela Karoline Michelon
 		<h2>Organizer</h2>
 		
 		<ol>
+						<li>5thInternational Workshop on Variability and Evolution of Software-Intensive Systems (VariVolution 2022) - Organizer.</li>
 						<li>4thInternational Workshop on Variability and Evolution of Software-Intensive Systems (VariVolution 2021) - Organizer.</li>
 						<li>43rd International Conference on Software Engineering (ICSE 2021) - Student Volunteer.</li>
 						<li>FOSD Online Meeting 2021 (FOSD 2021) - Organizer.</li>
@@ -134,15 +135,22 @@ title: CV of Gabriela Karoline Michelon
 		<h2>Teaching Experience</h2>
 		
 		<ol> 
-			<li>Institute of Software Systems Engineering - Johannes Kepler University Linz (JKU), Austria</li>
-				[2022S] Model-driven Engineering
-			<li>Federal Technological University of Paraná (UTFPR), Medianeira, Brazil</li>
-				[2018-1] Geographic Database 
-				[2018-2] Computing 1
-				[2018-2] Computing 2
-				[2018-2] Human-Computer Interaction
-				[2019-1] Computing 1
-				[2019-1] Computing 2
-				[2019-1] Human-Computer Interaction
+		<h4>Institute of Software Systems Engineering - Johannes Kepler University Linz (JKU), Austria</h4>
+		
+		<ul>
+			<li>[2022S] Model-driven Engineering</li>
+				
+				
+		</ul>
+		<h4>Federal Technological University of Paraná (UTFPR), Medianeira, Brazil</h4>
+		<ul>
+				<li>[2018-1] Geographic Database </li>
+				<li>[2018-2] Computing 1 </li>
+				<li>[2018-2] Computing 2 </li>
+				<li>[2018-2] Human-Computer Interaction </li>
+				<li>[2019-1] Computing 1 </li>
+				<li>[2019-1] Computing 2 </li>
+				<li>[2019-1] Human-Computer Interaction </li>
+		</ul>
 		</ol>
 	</div>
