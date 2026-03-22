@@ -1,32 +1,34 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ page.title }}</title>
-    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}Dr. Gabriela Karoline Michelon</title>
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-  
   </head>
-
-
   <body>
-    <nav>
-<ul>
-<li><a href="/">Home</a></li>
-<li><a href="/cv">CV</a></li>
-<li><a href="/publications">Publications</a></li>
-</ul>
-    </nav>
-<div class="container">
+    <div class="site-shell">
+      <header class="site-header">
+        <div class="site-branding">
+          <a class="site-title" href="/">Dr. Gabriela Karoline Michelon</a>
+          <p class="site-tagline">AI Program Manager · Researcher · Computer Scientist</p>
+        </div>
+        <nav class="site-nav" aria-label="Primary navigation">
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/cv">CV</a></li>
+            <li><a href="/publications">Publications</a></li>
+          </ul>
+        </nav>
+      </header>
 
-  {{ content }}
+      <main class="container content-card">
+        {{ content }}
+      </main>
 
-</div>
-  
-  <footer>
-   <ul>
-   <li><a href="mailto:gabilukcs@hotmail.com">gabilukcs@hotmail.com</a></li>
-   </ul>
-  </footer>
+      <footer class="site-footer">
+        <p>Get in touch: <a href="mailto:gabilukcs@hotmail.com">gabilukcs@hotmail.com</a></p>
+      </footer>
+    </div>
   </body>
-
 </html>
