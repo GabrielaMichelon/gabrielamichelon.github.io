@@ -1,32 +1,39 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
-    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="/css/main.css">
-  
   </head>
 
-
   <body>
-    <nav>
-<ul>
-<li><a href="/">Home</a></li>
-<li><a href="/cv">CV</a></li>
-<li><a href="/publications">Publications</a></li>
-</ul>
-    </nav>
-<div class="container">
+    <header class="site-header">
+      <div class="header-inner">
+        <div class="site-title"><a href="/">Dr. Gabriela K. Michelon</a></div>
+        <nav class="site-nav">
+          <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/cv">CV</a></li>
+            <li><a href="/publications">Publications</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
 
-  {{ content }}
+    <main class="container">
+      {{ content }}
+    </main>
 
-</div>
-  
-  <footer>
-   <ul>
-   <li><a href="mailto:gabilukcs@hotmail.com">gabilukcs@hotmail.com</a></li>
-   </ul>
-  </footer>
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <p>&copy; {{ 'now' | date: "%Y" }} Dr. Gabriela Karoline Michelon &mdash;
+          <a href="mailto:gabilukcs@hotmail.com">gabilukcs@hotmail.com</a>
+        </p>
+      </div>
+    </footer>
   </body>
-
 </html>
